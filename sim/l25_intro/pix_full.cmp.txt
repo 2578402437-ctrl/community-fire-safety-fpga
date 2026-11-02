@@ -1,0 +1,20 @@
+# 2026-10-15 比对结果（原文件清理 pix_*.txt 时误删，按当次输出重写）
+# WALK_SH=7 FLY_SH=7 BOOT_FROM=140 NFRAMES=272 DUMP_MOD=17
+frame 17 st=WALK a=17 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 34 st=WALK a=34 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 51 st=WALK a=51 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 68 st=WALK a=68 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 85 st=WALK a=85 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 102 st=WALK a=102 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 119 st=WALK a=119 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 136 st=WALK a=128 k=0 active rtl=1 exp=1 diff=0 first=None OK
+frame 153 st=FLY a=128 k=13 active rtl=1 exp=1 diff=0 first=None OK
+frame 170 st=FLY a=128 k=30 active rtl=1 exp=1 diff=0 first=None OK
+frame 187 st=FLY a=128 k=47 active rtl=1 exp=1 diff=0 first=None OK
+frame 204 st=FLY a=128 k=64 active rtl=1 exp=1 diff=0 first=None OK
+frame 221 st=FLY a=128 k=81 active rtl=1 exp=1 diff=0 first=None OK
+frame 238 st=FLY a=128 k=98 active rtl=1 exp=1 diff=0 first=None OK
+frame 255 st=FLY a=128 k=115 active rtl=1 exp=1 diff=0 first=None OK
+frame 271 st=DONE a=128 k=128 active rtl=0 exp=0 diff=0 first=None OK
+frame 272 st=DONE a=128 k=128 active rtl=0 exp=0 diff=0 first=None OK
+RESULT PASS

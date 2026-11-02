@@ -1,0 +1,48 @@
+# ---------- 安路 TD 工程生成文件 ----------
+src/td_project/*_Runs/
+src/td_project/log/
+src/td_project/out/
+src/td_project/bit_bak_*/
+src/td_project/.recent_user_depot.ini
+src/td_project/transcript
+*.lock.f
+*.begin.f
+*.temp.f
+*.bit
+*.bid
+*.db
+*.area
+*.ts
+*.timing
+*.qor
+*.status
+*.rpt
+*.log
+*.logw
+*.dmp
+*.dms
+*.dms.x
+
+# ---------- 仿真中间产物 ----------
+sim/**/work/
+sim/**/work_*/
+sim/**/tmp*/
+sim/**/transcript
+sim/**/*.wlf
+sim/**/*.vcd
+sim/**/*.vvp
+sim/**/*_out.txt
+sim/**/*.png
+sim/**/*.gif
+sim/**/*.wav
+
+# ---------- 备份与临时文件 ----------
+*.bak
+*.bak_*
+*.tmp
+*~
+
+# ---------- 本地环境 ----------
+__pycache__/
+/.claude/
+/演示视频/

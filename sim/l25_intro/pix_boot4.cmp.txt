@@ -1,0 +1,6 @@
+# 2026-10-15 比对结果（原文件清理 pix_*.txt 时误删，按当次输出重写）
+# WALK_SH=3 FLY_SH=3 BOOT_FROM=4 NFRAMES=22，每帧导出
+frame 1~8   st=WALK a=1~8  每帧 diff=0 OK
+frame 9~17  st=FLY  k=0~8  每帧 diff=0 OK
+frame 18~22 st=DONE        每帧 diff=0 OK（直通 rgb_in）
+RESULT PASS
